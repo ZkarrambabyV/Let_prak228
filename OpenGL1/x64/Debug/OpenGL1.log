@@ -1,0 +1,21 @@
+﻿  main.cpp
+D:\VisualProjects\OpenGL1\OpenGL1\main.cpp(46,13): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\VisualProjects\OpenGL1\OpenGL1\main.cpp(47,13): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\VisualProjects\OpenGL1\OpenGL1\main.cpp(48,16): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\VisualProjects\OpenGL1\OpenGL1\main.cpp(49,16): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\VisualProjects\OpenGL1\OpenGL1\main.cpp(57,20): warning C4244: аргумент: преобразование "const double" в "GLfloat", возможна потеря данных
+D:\VisualProjects\OpenGL1\OpenGL1\main.cpp(57,14): warning C4244: аргумент: преобразование "const double" в "GLfloat", возможна потеря данных
+D:\VisualProjects\OpenGL1\OpenGL1\main.cpp(80,13): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\VisualProjects\OpenGL1\OpenGL1\main.cpp(81,13): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\VisualProjects\OpenGL1\OpenGL1\main.cpp(82,16): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\VisualProjects\OpenGL1\OpenGL1\main.cpp(83,16): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\VisualProjects\OpenGL1\OpenGL1\main.cpp(91,17): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\VisualProjects\OpenGL1\OpenGL1\main.cpp(91,14): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\VisualProjects\OpenGL1\OpenGL1\main.cpp(114,13): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\VisualProjects\OpenGL1\OpenGL1\main.cpp(115,13): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\VisualProjects\OpenGL1\OpenGL1\main.cpp(116,16): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\VisualProjects\OpenGL1\OpenGL1\main.cpp(117,16): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\VisualProjects\OpenGL1\OpenGL1\main.cpp(126,20): warning C4244: аргумент: преобразование "const double" в "GLfloat", возможна потеря данных
+D:\VisualProjects\OpenGL1\OpenGL1\main.cpp(126,14): warning C4244: аргумент: преобразование "const double" в "GLfloat", возможна потеря данных
+D:\VisualProjects\OpenGL1\OpenGL1\main.cpp(198,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  OpenGL1.vcxproj -> D:\VisualProjects\OpenGL1\x64\Debug\OpenGL1.exe
